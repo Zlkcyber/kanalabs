@@ -16,6 +16,8 @@
 
 - **Node.js**: Ensure you have Node.js installed.
 - **npm**: Ensure you have npm installed.
+<h2 style="color:red;">it cost me about 3 Aptos gas fee to creating $50k volumes! <br>
+So Make sure You Stop The script if you already reached target volume!</h2>
 
 ## Setup
 
