@@ -8,9 +8,9 @@ const DooDoo = '0x73eb84966be67e4697fc5ae75173ca6c35089e802650f75422ab49a8729704
 const sthAPT = "0xfaf4e633ae9eb31366c9ca24214231760926576c7b625313b3688b5e900731f6::staking::StakedThalaAPT"
 
 // edit this config to yours
-const private_key = "YOUR_APTOS_PRIVATE_KEY"; // private keys aptos wallet
-const address = "YOUR_APTOS_ADDRESS"; // your aptos wallet address
-const amountToSwap = 1; // APTOS AMOUNT TO SWAP, THIS EXAMPLE FOR SWAPING 1 APTOS
+const private_key = "private keys aptos wallet"; // private keys aptos wallet
+const address = "your aptos wallet address"; // your aptos wallet address
+const amountToSwap = 3; // APTOS AMOUNT TO SWAP, THIS EXAMPLE FOR SWAPING 1 APTOS
 const tokenToSwap = ZUSDC; // token to swap, in this example we are swapping TO USDC, you can choose token that listed in the above
 const SLIPPAGE = 0.5; // slipage to perform swap
 

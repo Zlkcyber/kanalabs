@@ -2,7 +2,7 @@ import { sendTransaction, balance } from "./transactions.js";
 import { address, APTOS, amountToSwap, tokenToSwap, SLIPPAGE } from "./config.js";
 import { contract, logger } from "./utils/logger.js"
 import { banner } from "./utils/banner.js"
-
+import fetch from 'node-fetch';
 const APTOS_DECIMALS = 100000000;
 const TOKEN_DECIMAL = 1000000;
 
